@@ -1,1 +1,1 @@
-# genai-bootcamp
+# genai-bootcamp projects repository
